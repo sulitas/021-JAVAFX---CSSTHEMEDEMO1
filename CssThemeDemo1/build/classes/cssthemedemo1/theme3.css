@@ -1,0 +1,24 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Sep 27, 2015, 12:37:12 PM
+    Author     : sulitas
+*/
+
+.root{
+    -fx-font-size: 20pt;
+    -fx-font-family: "Arial";
+    -fx-base: rgb(232, 45, 87);
+    -fx-background: rgb(125, 128, 213);
+}
+
+.buttonStyle {
+    -fx-text-fill: red;
+    -fx-background-color: blue;
+    -fx-border-color: blue;
+    -fx-border-radius: 5;
+    -fx-padding: 3 3 4 6;
+}
